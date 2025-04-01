@@ -1,2 +1,2 @@
-# nephosphere
-Repo for Nephosphere cloud monitoring service
+# nephoscope
+Repo for NephoScope cloud monitoring service
